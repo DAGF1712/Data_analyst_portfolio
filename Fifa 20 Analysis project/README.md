@@ -25,7 +25,7 @@ Steps:
 ![Top 10 nationalities by overall average](https://github.com/DAGF1712/Data_analyst_portfolio/assets/55629047/3c5a94d4-4e68-4e21-8e99-3db5548b68ca)
 
 
-4- Top 10 nationalities by average overall fixed: I made other sheet to change the results of the previous one, in this case I made a pivot table to show only the top 10 countries by the average overall of the players that had more than the average number of players by country. This gave me the results that I was expecting (kinda, some suprises got there)
+4- Top 10 nationalities by average overall fixed: I made other sheet to change the results of the previous one, in this case I made a pivot table to show only the top 10 countries by the average overall of the players that had more than the average number of players by country. This gave me the results that I was expecting (kinda, some surprises got there)
 
 ![Top 10 nationalities by overall average with more than the average count of players](https://github.com/DAGF1712/Data_analyst_portfolio/assets/55629047/bf4fab98-23a0-4c2a-8d94-705427058e44)
 
