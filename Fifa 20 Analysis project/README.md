@@ -3,17 +3,9 @@ In this project I used my skills to clean the data and make some visualization t
 
 Used tool in this project: Google sheets
 
-Skills used in this project:
-1- Data cleaning
-2- Visualizations
-3- Statistics
+Skills used in this project: Data cleaning, Visualizations, Statistics
 
-Spreadsheets skill used in this project:
-1- Pivot tables
-2- Data validation
-3- Named ranges
-4- Conditional formating
-5- Formulas
+Spreadsheets skill used in this project: Pivot tables, Data validation, Named ranges, Conditional formating, Formulas
 
 Link to see the project:  
 https://docs.google.com/spreadsheets/d/1zQJraaQcwutiIZZvGDJ9yRoAsKzBxIJZgYJ4qxP9fjc/edit?usp=sharing
