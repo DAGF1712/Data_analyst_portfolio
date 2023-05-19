@@ -1,6 +1,8 @@
 Fifa 20 dataset project:
 In this project i used my skills to clean the data and make some visualization that can generate some insights about the dataset.
 
+Used tool in this project: Google sheets
+
 Skills used in this project:
 Data cleaning
 Visualizations
