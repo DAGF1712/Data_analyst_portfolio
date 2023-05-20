@@ -18,4 +18,4 @@ Steps:
 
 3- Dashboard: I made a dinamic dashboard containing all the visualizations from the pivot tables and add some pivot slicers to get filters for the dashboard.
 
-![image](https://github.com/DAGF1712/Data_analyst_portfolio/assets/55629047/229f58c2-23a8-4ed1-b1b5-77093cc73e2a)
+![image](https://github.com/DAGF1712/Data_analyst_portfolio/assets/55629047/8193f985-9ad6-4b84-9781-a20af3332c01)
