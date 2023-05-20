@@ -10,7 +10,7 @@ Steps:
 1- Clean the data: First, I made another sheet to get the columns that I needed for this project, after that I made sure that all the data has the proper format and change some values to be more clear (e.g, Change "S" values in the "Marital Status" column to "Single").
 
 
-3- Create useful column: I create a column "Age Brackets" to group customers by age.
+3- Create useful column: I created a column named "Age Brackets" to group customers by age.
 
 
 2- Pivot tables: I made another sheet with some pivot tables that were able to provide some insights and generate visulizations (e.g, Average income of customers by gender).
