@@ -13,7 +13,7 @@ Steps:
 2- Create useful column: I created a column named "Age Brackets" to group customers by age.
 
 
-3- Pivot tables: I made another sheet with some pivot tables that were able to provide some insights and generate visulizations (e.g, Average income of customers by gender).
+3- Pivot tables: I made another sheet with some pivot tables that were able to provide some insights and generate visualizations (e.g, Average income of customers by gender).
 
 
 4- Dashboard: I made a dinamic dashboard containing all the visualizations from the pivot tables and add some pivot slicers to get filters for the dashboard.
