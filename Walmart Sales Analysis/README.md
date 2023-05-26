@@ -1,4 +1,4 @@
-Bike Sales Project: In this project I used my skills to clean the data and make some visualization that were able to generate some insights about the dataset.
+Walmart Sales Project: In this project I used my skills to clean the data and make some visualization that were able to generate some insights about the dataset.
 
 Used tool in this project: Excel
 
